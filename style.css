@@ -1,0 +1,33 @@
+/* Page layout */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eef1f5;
+  color: #222222;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* Extra credit: each section looks like a separate card */
+.card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  padding: 16px 24px;
+  margin-bottom: 20px;
+}
+
+.card h2 {
+  margin-top: 0;
+  color: #1f4e79;
+  border-bottom: 2px solid #1f4e79;
+  padding-bottom: 6px;
+}
+
+li {
+  margin-bottom: 8px;
+}
