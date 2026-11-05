@@ -1,10 +1,12 @@
-# Homework 9: JavaScript Built-In Objects
+Jonathan MacMillan
 
-CIT 384 — JavaScript Mini Demo
+# CIT384-HW9
 
-## GitHub Pages Link
+Repo for HW9- HTML
 
-Live site: https://jonathanmacmillan446-web.github.io/CIT-384-HW-9/
+## Live Site
+
+https://jonathanmacmillan446-web.github.io/CIT-384-HW-9/
 
 ## Screenshot
 
